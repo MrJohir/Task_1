@@ -1,5 +1,5 @@
+import 'package:flutter_login_screen/app.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:task_1/app.dart';
 
 void main() {
   testWidgets('Login screen loads correctly', (WidgetTester tester) async {
